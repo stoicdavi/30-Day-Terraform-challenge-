@@ -47,5 +47,6 @@
 - Continue with Day 3: Basic Terraform Configuration
 - Start working with actual Terraform configuration files
 - Deploy first infrastructure resources
+- blog:
 
 ## Status: ✅ COMPLETED
